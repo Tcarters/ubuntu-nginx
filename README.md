@@ -1,1 +1,1 @@
-# ubuntu-nginx with some files
+# Creating my own docker image called "ubuntu-nginx" which contains some files
